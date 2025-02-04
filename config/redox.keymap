@@ -57,7 +57,7 @@
 
             bindings = <
 &trans   &trans     &trans    &trans    &trans    &trans                                             &trans     &trans          &trans        &trans     &trans     &trans
-&kp ESC  &kp EXCL   &kp AT    &kp HASH  &kp DLLR  &kp PRCNT  &to 0                        &tog 2     &kp CARET  &kp AMPS        &kp UP_ARROW  &kp LPAR   &kp RPAR   &kp DEL
+&kp ESC  &kp EXCL   &kp AT    &kp HASH  &kp DLLR  &kp PRCNT  &tog 0                       &tog 2     &kp CARET  &kp AMPS        &kp UP_ARROW  &kp LPAR   &kp RPAR   &kp DEL
 &trans   &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE   &trans                       &trans     &kp HOME   &kp LEFT_ARROW  &kp DOWN      &kp RIGHT  &kp GRAVE  &kp TILDE
 &trans   &kp ESC    &kp LGUI  &kp LPAR  &kp RPAR  &kp TILDE  &trans  &trans    &trans     &trans     &kp END    &kp PG_DN       &kp LEFT      &kp DOWN   &kp RIGHT  &kp RET
 &trans   &trans     &trans    &mo 3     &trans               &mo 3   &trans    &kp ENTER  &kp SPACE             &kp RCTRL       &trans        &trans     &trans     &trans
