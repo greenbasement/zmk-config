@@ -39,7 +39,7 @@
             // | CRTL  | ALT | GUI | LOWER |     GUI     | LOWER | SPACE   | --- | DEL  |  0  |    RAISE  | LEFT | DOWN | UP  | RIGHT |
 
             bindings = <
-&bt BT_CLR_ALL  &trans     &trans     &trans     &trans     &trans                                       &trans           &trans        &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp KP_MINUS     &trans
+&bt BT_CLR_ALL  &trans     &trans     &trans     &trans     &trans                                       &bt BT_CLR_ALL   &trans        &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp KP_MINUS     &trans
 &kp ESC         &kp N1     &kp N2     &kp N3     &kp N4     &kp N5     &trans                    &trans  &kp N6           &kp N7        &kp N8         &kp N9           &kp KP_PLUS      &kp DEL
 &trans          &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT   &kp BSLH   &trans                    &trans  &kp KP_MULTIPLY  &kp N4        &kp N5         &kp N6           &kp KP_PLUS      &kp KP_MINUS
 &trans          &kp ESC    &kp LGUI   &kp LG(C)  &kp LG(V)  &kp GRAVE  &trans  &trans    &trans  &trans  &kp KP_DIVIDE    &kp N1        &kp N2         &kp N3           &kp RET          &kp RET
